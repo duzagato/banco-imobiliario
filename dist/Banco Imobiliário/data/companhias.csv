@@ -1,0 +1,7 @@
+Posição,Companhia,Preço,Valor a Receber,Hipoteca,Dono,Ativo,Hipotecada
+3,Companhia Petrolífera,200000,50000,100000,NaN,Valor a Receber,1
+14,Central de Força e Luz,200000,50000,100000,NaN,Valor a Receber,0
+22,Companhia de Água e Saneamento,200000,50000,100000,NaN,Valor a Receber,0
+23,Companhia de Mineração,200000,50000,100000,NaN,Valor a Receber,0
+29,Pontocom,150000,40000,75000,NaN,Valor a Receber,0
+36,Crédito de Carbono,150000,40000,75000,NaN,Valor a Receber,0
